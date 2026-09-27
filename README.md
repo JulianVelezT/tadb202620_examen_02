@@ -25,8 +25,3 @@ Este repositorio contiene los 4 entregables oficiales requeridos para la evaluac
 * **Contenerización:** Docker
 * **Cliente SQL:** DBeaver Community Edition
 
-## Instrucciones de Ejecución
-Para reproducir el modelo de datos localmente:
-1. Conéctese a una instancia de PostgreSQL.
-2. Ejecute el archivo `tadb202620_examen02_modelo.sql` para crear el esquema, las tablas y los índices.
-3. (Opcional) Importe los datos masivos (40.000 registros) a una tabla de paso y ejecute las sentencias `INSERT INTO ... SELECT DISTINCT` para poblar el modelo relacional.
